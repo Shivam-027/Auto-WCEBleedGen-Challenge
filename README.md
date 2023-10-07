@@ -12,7 +12,7 @@ We employed the YOLOv8 model architecture for this task. We merged both the blee
 - Results for the validation images are stored in the 'Validation Result' folder.
 - Results for the test dataset are located in the 'TEST_DATASET_RESULT' folder.
 
-## Key Highlights
+### Key Highlights
 **Classification and Detection:** Our model not only classifies images but also detects bleeding regions with bounding boxes and confidence levels.
 **Data Merging:** We merged bleeding and non-bleeding images during training to improve model generalization.
 
@@ -44,7 +44,7 @@ Format (Bounded Boxes Confidence Label)
 
 ### Image-1 ID: img- (6)
 ![img- (6)](https://github.com/Shivam-027/Auto-WCEBleedGen-Challenge/assets/109764676/627f345e-9f88-453f-9f55-8fabbb82280d)
-Bleeding Frame
+<br> Bleeding Frame
 tensor([[131.00000, 170.00000, 203.00000, 215.00000,   0.38539,   0.00000]])
 tensor([[131.00000, 148.00000, 204.00000, 216.00000,   0.27617,   0.00000]])
 
