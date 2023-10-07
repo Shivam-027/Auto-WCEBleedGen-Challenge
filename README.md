@@ -131,29 +131,29 @@ tensor([[ 43.00000,  90.00000, 132.00000, 157.00000,   0.38476,   0.00000]])
 ## From Test_Dataset_2
 
 ### Image-1 ID: A0141
-
+![A0141](https://github.com/Shivam-027/Auto-WCEBleedGen-Challenge/assets/109764676/6ba288e3-9f12-48b5-a864-ab57b19b8fa0)
 Bleeding Frame
 tensor([[ 34.00000,   2.00000, 204.00000, 222.00000,   0.70168,   0.00000]])
 
 ### Image-2 ID: A0375
-
+![A0375](https://github.com/Shivam-027/Auto-WCEBleedGen-Challenge/assets/109764676/5afcfdef-0a1b-44f0-a9c3-746e4a54a60b)
 Bleeding Frame
 tensor([[ 72.00000,   0.00000, 127.00000,  68.00000,   0.78682,   0.00000]])
 
 ### Image-3 ID: A0399
-
+![A0399](https://github.com/Shivam-027/Auto-WCEBleedGen-Challenge/assets/109764676/fac89aaf-6289-414d-9b49-12727c494d86)
 Bleeding Frame
 tensor([[120.00000,  33.00000, 156.00000, 119.00000,   0.40065,   0.00000]])
 tensor([[ 51.00000,  18.00000, 157.00000, 162.00000,   0.25606,   0.00000]])
 
 ### Image-4 ID: A0467
-
+![A0467](https://github.com/Shivam-027/Auto-WCEBleedGen-Challenge/assets/109764676/5d5e2513-2429-49ab-a6da-4ef39123f372)
 Bleeding Frame
 tensor([[ 87.00000, 132.00000, 124.00000, 182.00000,   0.45395,   0.00000]])
 tensor([[118.00000, 154.00000, 172.00000, 208.00000,   0.39441,   0.00000]])
 tensor([[ 80.00000, 133.00000, 174.00000, 215.00000,   0.27501,   0.00000]])
 
 ### Image-5 ID: A0484
-
+![A0484](https://github.com/Shivam-027/Auto-WCEBleedGen-Challenge/assets/109764676/e00bf7ce-2988-48a1-b878-fc1162b0623e)
 Bleeding Frame
 tensor([[111.00000,  69.00000, 132.00000,  92.00000,   0.48386,   0.00000]])
