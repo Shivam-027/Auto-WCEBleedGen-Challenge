@@ -1,6 +1,8 @@
 # Auto-WCEBleedGen-Challenge
 This repository contains our submission for the Auto-WCEBleedGen Challenge. The primary objective of this challenge was to develop a classification and detection model capable of distinguishing between bleeding and non-bleeding frames in wireless capsule endoscopy (WCE) images. In this README, we provide an overview of the project, the achieved evaluation metrics, and visualizations of the model's performance on validation and testing datasets.
 
+## Team Name: Techy Bots
+
 ## Model Used
 We employed the YOLOv8 model architecture for this task. We merged both the bleeding and non-bleeding images. The bleeding images follow the naming convention 'img- (n)', while the non-bleeding images are labeled as 'imgnb- (n)', where '(n)' represents a numerical identifier.
 
