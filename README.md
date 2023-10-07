@@ -8,9 +8,8 @@ We employed the YOLOv8 model architecture for this task. We merged both the blee
 - The code for training the model can be found in the 'MODEL' folder of this repository.
 - The trained model itself is available in the same 'MODEL' folder.
 
-**Validation and Testing Results**
-- Results for the validation images are stored in the 'Validation Result' folder.
-- Results for the test dataset are located in the 'TEST_DATASET_RESULT' folder.
+**Testing Results**
+- Results for the test dataset are located in the 'RESULT' folder.
 
 ### Key Highlights
 **Classification and Detection:** Our model not only classifies images but also detects bleeding regions with bounding boxes and confidence levels.
