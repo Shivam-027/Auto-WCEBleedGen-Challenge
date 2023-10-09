@@ -15,7 +15,7 @@ We employed the YOLOv8 model architecture for this task. We merged both the blee
 
 ### Key Highlights
 **Classification and Detection:** Our model not only classifies images but also detects bleeding regions with bounding boxes and confidence levels.
-**Data Merging:** We merged bleeding and non-bleeding images during training to improve model generalization.
+<br> **Data Merging:** We merged bleeding and non-bleeding images during training to improve model generalization.
 
 # Evaluation Metrics
 ## Classification Metrics
